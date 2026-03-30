@@ -921,6 +921,7 @@ _M.global_rule = {
         id = id_schema,
         create_time = timestamp_def,
         update_time = timestamp_def,
+        labels = labels_def,
 
         -- properties
         plugins = plugins_schema,
